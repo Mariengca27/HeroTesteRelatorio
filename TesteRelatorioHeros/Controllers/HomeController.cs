@@ -2,6 +2,7 @@
 using System.Diagnostics;
 using TesteRelatorioHeros.Models;
 
+
 namespace TesteRelatorioHeros.Controllers
 {
     public class HomeController : Controller

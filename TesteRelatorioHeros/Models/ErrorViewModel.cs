@@ -1,3 +1,5 @@
+using System.Collections.Generic;
+
 namespace TesteRelatorioHeros.Models
 {
     public class ErrorViewModel
